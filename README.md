@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @TejodhayBonam
-- 👀 I’m interested in irritating moksha
-- 🌱 I’m currently learning korean language
-- 💞️ I’m looking to collaborate on moksha's football match
-- 📫 How to reach me Aeroplane, Car, Bus, Train..
-          I'm waiting..
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me 
+          
 
 <!---
 TejodhayBonam/TejodhayBonam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
