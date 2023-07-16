@@ -1,4 +1,4 @@
-![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c)
 <h2 align="center">🏄‍♂️ Tejodhay Bonam</h2>
 <h3 align="center">MS Data Science @ Northeastern | Ex-Accenture | Binge Learning | Healing myself</h3>
 <p align="left">I'm a Data Scientist, armed with Python spells, R potions, and SQL incantations. I conjure predictions and unlock the secrets of the dataverse, a world where data bends to my will.</p>
