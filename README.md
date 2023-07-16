@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TejodhayBonam&label=Profile%20views&color=0e75b6&style=flat" alt="TejodhayBonam" /> </p>
 
 
-- 🔭 I’m currently looking for **Data Science Internships/Co-ops for Fall 2023 and Spring 2024**
+- 🔭 I’m currently looking for **Data Science Internships/Co-ops for Fall 2023 , Spring 2024**
 
 - 🌱 I’m currently learning **Data Science & Machine Learning , Data Structures & Algorithms**
 
