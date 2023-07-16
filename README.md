@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]
+![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <h2 align="center">🏄‍♂️ Tejodhay Bonam</h2>
 <h3 align="center">MS Data Science @ Northeastern | Ex-Accenture | Binge Learning | Healing myself</h3>
 
