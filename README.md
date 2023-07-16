@@ -1,6 +1,7 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <h2 align="center">🏄‍♂️ Tejodhay Bonam</h2>
 <h3 align="center">MS Data Science @ Northeastern | Ex-Accenture | Binge Learning | Healing myself</h3>
+<p align="center">I'm a Data Scientist, armed with Python spells, R potions, and SQL incantations. I conjure predictions and unlock the secrets of the dataverse, a world where data bends to my will.</p>
 
 <img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/p4NLw3I4U0idi/giphy.gif?cid=ecf05e47u651twctsezhzbsw8myzchukcjxu7oeakq3ujf17&rid=giphy.gif">
 
